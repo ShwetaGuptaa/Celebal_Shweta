@@ -1,5 +1,3 @@
-conditional statements
-switch
-loops
-set
-dictionary
+abcd
+qwer
+asdf
